@@ -67,7 +67,6 @@
 - 저는 지금 이렇게 유스콘 발표를 들어주시는 것만으로도 이미 문화를 함께 나누고 있다고 생각해요. 그렇기에 저는 감히 이렇게 말씀드리고 싶습니다. 여러분은 이미 개발자입니다. 개발은 직함이 아니라 문화니까요.
 
 
-![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc5cd88f-4f5a-4d73-ac3f-a925590da3ac/Untitled.png)
 
 ### 혹독한 환경
 
