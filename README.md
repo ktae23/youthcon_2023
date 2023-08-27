@@ -1,4 +1,4 @@
-# [유스콘 2023 발표 슬라이드](https://docs.google.com/presentation/d/1eW5PGfR7FMSyyY-BCDsQPGjVLA1ula9cdAwrIZIdhKA/edit?usp=sharing)
+# [유스콘 2023 발표 슬라이드](https://drive.google.com/file/d/19O8I7VrPub4hrs74LTtRVFLbtKKbHq4p/view?usp=sharing)
 # 유스콘 2023 발표
 
 # 제목 : 그렇게 개발자가 된다.
